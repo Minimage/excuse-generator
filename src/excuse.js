@@ -10,4 +10,6 @@ bb = Math.floor(Math.random() * b.length)
 cc = Math.floor(Math.random() * c.length)
 dd = Math.floor(Math.random() * d.length)
 
-console.log(a[aa] +" "+b[bb] +" "+ c[cc] +" "+ d[dd])
+finished = a[aa] +" "+b[bb] +" "+ c[cc] +" "+ d[dd] 
+
+document.getElementById("lies").innerHTML = finished;
