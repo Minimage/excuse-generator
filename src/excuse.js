@@ -1,5 +1,5 @@
 
-a = ["The", 'A', 'That', 'This']
+a = ["The", 'A', 'That', 'This', 'Some']
 b = ["Devil", "Dog", "Robber", "Kitten", "Bear","Fish"]
 c = ["stole", "ate", "hid", "burried", "ripped", "tore", "broke"]
 d = ["my homework", "my car", "my money", "my keys", "phone",]
